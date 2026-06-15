@@ -4,7 +4,7 @@ An AI-powered code review system that analyzes GitHub Pull Requests, detects bug
 
 ---
 
-## 🚀 Features 
+## 🚀 Features  
 
 - 🔍 Automatic GitHub Pull Request analysis  
 - 🤖 AI-powered code review suggestions  
