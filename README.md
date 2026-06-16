@@ -11,7 +11,7 @@ An AI-powered code review system that analyzes GitHub Pull Requests, detects bug
 - 🐞 Bug detection and code quality analysis  
 - 🔐 Security vulnerability detection  
 - ⚡ Performance improvement recommendations  
-- 🔗 GitHub App integration  
+- 🔗 GitHub App integration   
 - 📡 REST API using FastAPI  
 - 🧠 Supports AI models (Groq / OpenAI)
 
