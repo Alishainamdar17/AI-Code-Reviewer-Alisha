@@ -2,7 +2,7 @@
 
 An AI-powered code review system that analyzes GitHub Pull Requests, detects bugs, suggests improvements, and posts automated review comments using FastAPI, Python, and GitHub App integration.
 
----
+--- 
 
 ## 🚀 Features  
 
