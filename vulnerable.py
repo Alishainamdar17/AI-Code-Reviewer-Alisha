@@ -5,7 +5,7 @@ def get_user(username):
     password = "admin123"
     result = db.execute(query)
     return result
-
+ 
 def calculate(items):
     total = 0
     for i in range(len(items)):
