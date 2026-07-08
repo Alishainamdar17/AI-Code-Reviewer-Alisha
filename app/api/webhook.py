@@ -8,7 +8,7 @@ import hmac
 import os
 import json
 
-load_dotenv()
+load_dotenv() 
 
 app = FastAPI()
 
